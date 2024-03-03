@@ -14,9 +14,5 @@ def monitor_folder(folder_path, server_url):
                     print("Sent", data)
         time.sleep(2)  
 
-monitor_folder('C:/Users/Daniel/Documents/Projetos/elipse/prServer/', 'http://localhost:3000/upload')
 
-
-
-
-
+monitor_folder('/Users/daniellotorres/Documents/Projects/repos/sketch-1/data', 'http://localhost:3000/upload')
