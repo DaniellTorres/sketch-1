@@ -32,8 +32,8 @@ function getRandomNumber() {
 
 readData().then((data) => {
   for (const node of data.data) {
-    const newValue = node.nominalValue + getRandomNumber();
-    node.nominalValue = newValue;
+    node.value = Number(node.value); 
+    node.value += getRandomNumber();
   }
   writeData(data).then(() => {
     console.log("Dados atualizados com sucesso!");

@@ -12,7 +12,7 @@
   "data": [
     {
       "name": "Tensão Fase R-S",
-      "value": "1320.52",
+      "value": "132.52",
       "EU": "V",
       "hasGraph": "True",
       "nominalValue": "220-14-77",
