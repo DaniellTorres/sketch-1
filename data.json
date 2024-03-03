@@ -1,0 +1,151 @@
+{
+    "info": [
+    {
+    "name":"MM-01-01",
+    "discipline":"EL",
+    "floor":"1º Pavimento",
+    "building":"Principal",
+    "producer":"MM-01-01",
+    "model":"PM2110"
+    }
+    ],
+    "data": [
+    {
+    "name":"Tensão Fase R-S",
+    "value":"150.52",
+    "EU":"V",
+    "hasGraph":"True",
+    "nominalValue":"220",
+    "failComm":"False"
+    },
+    {
+    "name":"Tensão Fase S-T",
+    "value":"216.72",
+    "EU":"V",
+    "hasGraph":"True",
+    "nominalValue":"220",
+    "failComm":"False"
+    },
+    {
+    "name":"Tensão Fase T-R",
+    "value":"219.64",
+    "EU":"V",
+    "hasGraph":"True",
+    "nominalValue":"220",
+    "failComm":"False"
+    },
+    {
+    "name":"Tensão Fase R-N",
+    "value":"128.04",
+    "EU":"V",
+    "hasGraph":"True",
+    "nominalValue":"127",
+    "failComm":"False"
+    },
+    {
+    "name":"Tensão Fase S-N",
+    "value":"124.95",
+    "EU":"V",
+    "hasGraph":"True",
+    "nominalValue":"127",
+    "failComm":"False"
+    },
+    {
+    "name":"Tensão Fase T-N",
+    "value":"126.33",
+    "EU":"V",
+    "hasGraph":"True",
+    "nominalValue":"127",
+    "failComm":"False"
+    },
+    {
+    "name":"Corrente Fase R",
+    "value":"33.06",
+    "EU":"A",
+    "hasGraph":"True",
+    "nominalValue":"40",
+    "failComm":"False"
+    },
+    {
+    "name":"Corrente Fase S",
+    "value":"44.71",
+    "EU":"A",
+    "hasGraph":"True",
+    "nominalValue":"40",
+    "failComm":"False"
+    },
+    {
+    "name":"Corrente Fase T",
+    "value":"31.33",
+    "EU":"A",
+    "hasGraph":"True",
+    "nominalValue":"40",
+    "failComm":"False"
+    },
+    {
+    "name":"Potência Ativa",
+    "value":"8284.79",
+    "EU":"kW",
+    "hasGraph":"True",
+    "nominalValue":"8100",
+    "failComm":"False"
+    },
+    {
+    "name":"Potência Reativa",
+    "value":"286.22",
+    "EU":"kvar",
+    "hasGraph":"True",
+    "nominalValue":"700",
+    "failComm":"False"
+    },
+    {
+    "name":"Potência Aparente",
+    "value":"8571.01",
+    "EU":"kVA",
+    "hasGraph":"True",
+    "nominalValue":"8800",
+    "failComm":"False"
+    },
+    {
+    "name":"Tensão Trifásica",
+    "value":"215.47",
+    "EU":"V",
+    "hasGraph":"True",
+    "nominalValue":"220",
+    "failComm":"False"
+    },
+    {
+    "name":"Corrente Trifásica",
+    "value":"105.2",
+    "EU":"A",
+    "hasGraph":"True",
+    "nominalValue":"120",
+    "failComm":"False"
+    },
+    {
+    "name":"Fator de Potência",
+    "value":"0.967",
+    "EU":"",
+    "hasGraph":"True",
+    "nominalValue":"1",
+    "failComm":"False"
+    },
+    {
+    "name":"Frequência",
+    "value":"60.45",
+    "EU":"Hz",
+    "hasGraph":"True",
+    "nominalValue":"60",
+    "failComm":"False"
+    },
+    {
+    "name":"Consumo Ativo",
+    "value":"8634.81",
+    "EU":"",
+    "hasGraph":"False",
+    "nominalValue":"8100",
+    "failComm":"False"
+    }
+    ]
+    }
+    
